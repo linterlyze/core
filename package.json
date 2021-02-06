@@ -27,8 +27,10 @@
     "lint",
     "linter",
     "linterlyze",
-    "analyze",
+    "analyse",
+    "analyser",
     "check",
+    "checker",
     "checking",
     "core"
   ],
